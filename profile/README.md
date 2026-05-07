@@ -1,1 +1,1 @@
-![Mangesh Bhardwaj](/assets/banner.png)
+![Mangesh Bhardwaj](./assets/banner.png)
